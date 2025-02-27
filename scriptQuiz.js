@@ -99,7 +99,7 @@ export const quiz_montegolri = {
     
     
     {
-      text: "Selon la légende, jusqu'où sont descendues les fameuses dreadlocks de Nelson Tsamen, développeur et aventurier ?",
+      text: "Selon la légende, jusqu'où sont descendues les fameuses dreadlocks de Nelson, développeur et aventurier ?",
       options: [
         "Jusqu'aux fesses",
         "Jusqu'aux genoux",
